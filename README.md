@@ -2,11 +2,11 @@
 
 A LSPosed/Xposed module that bypasses Instagram's SSL certificate pinning for network debugging.
 
-![Screenshot](instagram-v418-ssl-bypass.png)
+![Screenshot](instagram-v427-ssl-bypass.png)
 
 ## Supported Versions
 
-**Instagram v361 - v418**
+**Instagram v361 - v427**
 
 > **Note:** Versions earlier than v361 use native-level SSL verification and are not supported.
 
